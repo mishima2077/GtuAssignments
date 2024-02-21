@@ -1,0 +1,2 @@
+pID , Min_stock , Max_stock , Median_stock
+10 , 200 , 500 , 350.00
