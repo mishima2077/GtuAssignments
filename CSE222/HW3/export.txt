@@ -1,0 +1,20 @@
+Arasaka Corporation Inventory Report
+Generated on: 2024-03-25
+
+----------------------------------------
+| No. | Category | Name       | Price | Quantity |
+----------------------------------------
+| 1 | Headphone | Sony WH-1000XM4 | 349.99 | 10 |
+| 2 | Headphone | Sony WH-1000XM3 | 249.99 | 5 |
+| 3 | Keyboard | Razer BlackWidow Elite | 129.99 | 5 |
+| 4 | Keyboard | Logitech G Pro X | 149.99 | 3 |
+| 5 | Laptop | Apple MacBook Pro | 1299.99 | 3 |
+| 6 | Laptop | Dell XPS 13 | 999.99 | 4 |
+| 7 | Smart Phone | Apple iPhone 12 | 799.99 | 7 |
+| 8 | Smart Phone | Samsung Galaxy S21 | 999.99 | 6 |
+| 9 | TV | Samsung Q90T | 1499.99 | 2 |
+| 10 | TV | LG CX | 1999.99 | 1 |
+----------------------------------------
+Summary:
+-Total Devices: 10
+-Total Inventory Value: 30349.54
